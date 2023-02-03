@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/about": "pages/about.js",
+  "/api/hello": "pages/api/hello.js",
+  "/api/test/[id]": "pages/api/test/[id].js",
+  "/": "pages/index.js",
+  "/post/[id]": "pages/post/[id].js",
+  "/profile": "pages/profile.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/ssr/[id]": "pages/ssr/[id].js",
+  "/ssg/[id]": "pages/ssg/[id].js"
+}
